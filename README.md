@@ -1,12 +1,15 @@
 # SummerGame
 
-We will learn some programming and game concepts by rewriting a game from long ago - Galaga.
+We will learn some programming and game concepts by rewriting a game from long ago - Galaga.  Note that this is an old arcade game and does not look great.  It is fun though (and hard!).
 
 ## Technology
 
 Python3 and the Pygame library.
 
 ## Assets
+
+Sprites are from https://jonathan-so.itch.io/creatorpack.
+License is CC-0.
 
 ## Definitions
 
