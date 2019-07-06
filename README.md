@@ -6,6 +6,8 @@ We will learn some programming and game concepts by rewriting a game from long a
 
 Python3 and the Pygame library.
 
+Follow the instructions here:  https://www.pygame.org/wiki/GettingStarted to install on your computer.
+
 ## Assets
 
 Sprites are from https://jonathan-so.itch.io/creatorpack.
